@@ -1,0 +1,15 @@
+# Smart File Organizer & Cleaner — Dependencies
+#
+# This project intentionally uses only Python Standard Library modules:
+#   os, shutil, logging, datetime, pathlib, sys, time
+#
+# No third-party packages are required.
+# Compatible with Python 3.8+
+
+# ── Optional: development / testing ──────────────────────────────────────────
+# Uncomment these if you wish to run the test suite or use linting tools.
+
+# pytest==8.2.0          # Unit testing framework
+# pytest-cov==5.0.0      # Coverage reporting
+# flake8==7.1.0          # PEP8 linter
+# black==24.4.2          # Code formatter
